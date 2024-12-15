@@ -1,0 +1,11 @@
+.gamediv {
+	display: flex;
+	width: 98vw;
+	height: 98vh;
+	align-items: center;
+	justify-content: center;
+}
+
+body {
+	background-color: darkslategray;
+}
