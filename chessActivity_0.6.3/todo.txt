@@ -1,0 +1,2 @@
+check
+exportFEN doesnt export checkAvailability correctly
